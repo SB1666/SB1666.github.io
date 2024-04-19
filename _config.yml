@@ -96,9 +96,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-BE21Q96H77
     anonymize_ip         : # true, false (default)
 
 
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Sage Rowan"
   avatar           : "/assets/images/sage-rowan.jpg"
-  bio              : "Sage Rowan is a creative writer and enthusiast of braless beauty, exploring the intersection of comfort, freedom, and style on the Unclasped platform."
+  bio              : "Sage Rowan is a creative writer and enthusiast of braless beauty"
   location         : "New York City, NY"
   email            :
   links:
