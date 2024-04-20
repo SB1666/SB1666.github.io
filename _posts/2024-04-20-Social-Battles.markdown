@@ -5,7 +5,7 @@ date: 2024-04-17
 categories: advocacy
 author: Sage Rowan
 header:
-  overlay_image: /path/to/your/image.jpg
+  overlay_image: /assets/images/public.jpeg
   caption: "Image courtesy of [**Unsplash**](https://unsplash.com)"
   overlay_filter: 0.5
 excerpt: "Exploring the ongoing struggle for acceptance of bralessness in public spaces, and the cultural and social hurdles women face."

@@ -5,7 +5,7 @@ date: 2024-04-20
 categories: lifestyle
 author: Sage Rowan
 header:
-  overlay_image: /assets/images/natural-movement.jpg
+  overlay_image: /assets/images/walking.jpeg
   caption: "Photo by [**PhotoSource**](URL)"
   overlay_filter: 0.3
 excerpt: "Who knew walking could be so sexy? Discover how ditching your bra can add an extra sway to your step!"
