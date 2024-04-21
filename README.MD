@@ -84,3 +84,11 @@
   - **Category:** Seduction
   - **Tags:** seduction, psychology, attraction
   - Dive deep into the psychological aspects of why a natural, braless look can be more attractive to potential partners, supported by expert opinions and studies.
+
+- [ ] **The Cleavage Debate**
+
+- [ ] **Nipples or not**
+
+- [ ] **The beuty of sagging**
+
+- [ ] **Why not just go the whole hog: sheer**
