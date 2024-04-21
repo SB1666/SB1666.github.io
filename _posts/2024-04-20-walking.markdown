@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: "Accentuate the Natural: Tips to Highlight Movement When Walking"
-date: 2024-04-20
+date: 2024-03-20
 categories: lifestyle
 author: Sage Rowan
 header:

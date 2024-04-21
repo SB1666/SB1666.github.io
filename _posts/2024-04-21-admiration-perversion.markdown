@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Admiration or Objectification?"
-date: 2024-04-21
+date: 2024-03-21
 categories: opinion
 author: Jack Mason
 header:
