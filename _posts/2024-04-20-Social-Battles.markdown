@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Social Battles: The Fight for Acceptance of Bralessness in Public Spaces"
-date: 2024-04-17
+date: 2024-05-30
 categories: advocacy
 author: Sage Rowan
 header:
@@ -43,7 +43,3 @@ The fight for the acceptance of bralessness in public spaces is far from over. I
 
 ```
 
-### Notes:
-- Replace `/path/to/your/image.jpg` with the actual path to an image that fits the theme of the post.
-- Adjust the caption link `[**Unsplash**](https://unsplash.com)` to reflect the actual source of your image if different.
-- This content structure is tailored for the Minimal Mistakes theme and uses its layout options effectively.
