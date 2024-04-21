@@ -1,18 +1,19 @@
 ---
 layout: single
+classes: wide
 title: "Accentuate the Natural: Tips to Highlight Movement When Walking"
 date: 2024-04-20
 categories: lifestyle
 author: Sage Rowan
 header:
-  overlay_image: /assets/images/walking.jpeg
+  overlay_image: /assets/images/public.jpeg
   caption: "Photo by [**PhotoSource**](URL)"
   overlay_filter: 0.3
 excerpt: "Who knew walking could be so sexy? Discover how ditching your bra can add an extra sway to your step!"
 ---
 
 Walking isn't just about getting from point A to point B—it's your runway show, and the world is your audience. Going braless? Even better! That's your chance to really let your body's natural rhythm take the spotlight and, trust me, it’s quite the showstopper.
-
+![Twiggy 1960s](/assets/images/public-2.jpeg)
 First things first, let’s talk threads. To make every stride count, pick outfits that love to move as much as you do. Think fabrics that flow and flutter—silks, chiffons, or even a breezy cotton. They'll float around you with every step, making that walk look more like a graceful dance. And layers? Oh, they're your best friends. A floaty scarf or a swishy cardigan can turn a simple walk into a poetic motion.
 
 Now, on to the star of the show: your posture. Stand tall, shoulders back, chin up—like you're wearing an invisible crown. This isn’t just about looking good (though it totally helps); it's about feeling good. Roll your hips slightly with each step and let the natural sway take over. It’s not just a walk; it’s an allure on legs.

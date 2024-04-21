@@ -5,14 +5,14 @@ date: 2024-04-17
 categories: advocacy
 author: Sage Rowan
 header:
-  overlay_image: /assets/images/public.jpeg
+  overlay_image: /assets/images/battle.jpeg
   caption: "Image courtesy of [**Unsplash**](https://unsplash.com)"
-  overlay_filter: 0.5
+  overlay_filter: 0.3
 excerpt: "Exploring the ongoing struggle for acceptance of bralessness in public spaces, and the cultural and social hurdles women face."
 ---
 
 In many societies around the world, the decision to go braless is still met with stigma and controversy. Despite significant strides in gender equality and body positivity, the acceptance of bralessness in public spaces remains a contentious issue. This article delves into the cultural, social, and legal battles women face in the quest for bodily autonomy.
-
+![Twiggy 1960s](/assets/images/public-1.jpeg)
 ## Historical Context
 
 The modern bra, developed in the early 20th century, quickly became a symbol of modesty and decorum for women. Over the decades, it has also been challenged as a symbol of restriction imposed by societal expectations. The 1960s and 70s saw women burn bras as a protest against societal constraints, signaling a powerful message about freedom and equality, which echoes into the movements we see today.
