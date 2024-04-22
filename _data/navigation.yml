@@ -1,0 +1,31 @@
+# Main navigation
+main:
+- title: "Home"
+  url: "/"
+
+##- title: "About"
+##  url: "/about/"
+
+- title: "Articles"
+  url: "/blog/"
+  
+##- title: "Community"
+##  url: "/community/"
+
+##- title: "Gallery"
+##  url: "/gallery/"
+
+##- title: "Contact"
+##  url: "/contact/"
+
+# Footer navigation
+footer:
+- title: "Privacy Policy"
+  url: "/privacy-policy/"
+
+- title: "Terms of Use"
+  url: "/terms-of-use/"
+
+- title: "FAQ"
+  url: "/faq/"
+

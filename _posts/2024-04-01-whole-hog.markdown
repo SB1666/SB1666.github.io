@@ -4,9 +4,9 @@ title: "Embracing Extremes: The Case for Going All In"
 date: 2024-04-18
 categories: seduction
 author: Isabella Fox
+permalink: /all-in
 header:
-  overlay_image: /assets/images/sheer-fashion.jpg
-  caption: "Photo by [**PhotoSource**](URL)"
+  overlay_image: /assets/images/sheerbanner.jpg
   overlay_filter: 0.3
 excerpt: "Exploring the bold world of sheer fashion and its place in the discourse of empowerment and seduction."
 ---

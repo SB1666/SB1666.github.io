@@ -89,6 +89,10 @@
 
 - [ ] **Nipples or not**
 
-- [ ] **The beuty of sagging**
+- [X] **The beauty of sagging**
 
-- [ ] **Why not just go the whole hog: sheer**
+- [X] **Why not just go the whole hog: sheer**
+
+- [ ] **Large Breasts and the older woman**
+
+- [ ] **Power of the turtle-neck**
