@@ -16,8 +16,8 @@ intro:
 feature_row:
 - image_path: /assets/images/saggy-beauty.jpeg
   alt: "Saggy Beauty"
-  title: "Embracing the Charm: The Beauty and Natural Allure of Saggy Breasts"
-  excerpt: "Uncover the untold **allure** of saggy breasts with us and celebrate the **strength and beauty** in every natural curve."
+  title: "Graceful Contours: Celebrating the Mature Elegance of Natural Breasts"
+  excerpt: "Uncover the untold **allure** of 'relaxed' breasts with us and celebrate the **strength and beauty** in every natural curve."
   url: "/saggy"
   btn_label: "Read More"
   btn_class: "btn--primary"
