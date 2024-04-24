@@ -1,0 +1,5 @@
+---
+layout: page
+---
+
+Hayley Jane is a highly regarded American actress and model. She was born on 4 November 1973 in United States. She is extremely popular on all social media platforms and gained a massive fan following. She has made a lasting impact on the entertainment industry through her mesmerizing beauty and undeniable talent.Hayley made her acting debut in 2015. She got the opportunity to work with esteemed actors like Monica Sweat and Kara Nox. She is also associated with popular film production companies. Initially, she was featured in various television commercials and magazines.Hayley Jane stands at a height of 5 Feet 3 Inches (1.60 meters) and weighs 82 Kilograms (180 lbs). She possesses captivating Greeen eyes, complemented by her Blonde hair, adding to her allure. Her attractive physique is emphasized by her figure, measuring 38K-35-42.

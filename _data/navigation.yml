@@ -8,9 +8,9 @@ main:
 
 - title: "Articles"
   url: "/blog/"
-  
-##- title: "Community"
-##  url: "/community/"
+
+- title: "Contributors"
+  url: "/contributors/"
 
 ##- title: "Gallery"
 ##  url: "/gallery/"
