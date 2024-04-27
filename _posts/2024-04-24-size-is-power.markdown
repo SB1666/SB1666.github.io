@@ -1,8 +1,9 @@
 ---
 layout: single
 title: "Size is Power: Mastering Intimacy with Confidence"
-date: 2024-04-01
-categories: seduction
+date: 2024-05-01
+categories: empowerment
+permalink: /hayley
 author: Hayley Jane
 header:
   overlay_image: /assets/images/power-play.jpg
